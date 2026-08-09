@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:opix/game/game_library_page.dart';
+import 'package:opix/game/game_dashboard/game_dashboard_page.dart';
 import 'package:opix/theme.dart';
 
 void main() {
@@ -23,7 +23,7 @@ class Opix extends StatelessWidget {
           iconTheme: IconThemeData(color: Colors.white),
         ),
       ),
-      home: GameLibraryPage(),
+      home: GameDashboardPage(),
     );
   }
 }

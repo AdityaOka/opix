@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512"><rect x="0" y="0" width="512" height="512" rx="114" fill="#1e1e2e"/>
+  <defs>
+    <clipPath id="lt"><path d="M139 120 L139 364 Q139 420 195 420 Q251 420 251 364 L251 120 Z"/></clipPath>
+    <clipPath id="rt"><path d="M261 120 L261 364 Q261 420 317 420 Q373 420 373 364 L373 120 Z"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#lt)">
+    <rect x="139" y="120" width="112" height="300" fill="#313244" fill-opacity="0.55"/>
+    <rect x="139" y="165" width="112" height="64" fill="#cba6f7"/>
+    <rect x="139" y="229" width="112" height="64" fill="#fab387"/>
+    <rect x="139" y="293" width="112" height="63" fill="#f38ba8"/>
+    <rect x="139" y="356" width="112" height="64" fill="#94e2d5"/>
+  </g>
+
+  <g clip-path="url(#rt)">
+    <rect x="261" y="120" width="112" height="300" fill="#313244" fill-opacity="0.55"/>
+    <rect x="261" y="293" width="112" height="127" fill="#94e2d5"/>
+  </g>
+
+  <path d="M317 150 C 337 184 339 198 339 212 A 22 22 0 1 1 295 212 C 295 198 297 184 317 150 Z" fill="#94e2d5"/>
+
+  <path d="M139 120 L139 364 Q139 420 195 420 Q251 420 251 364 L251 120" fill="none" stroke="#cdd6f4" stroke-opacity="0.7" stroke-width="9" stroke-linecap="round"/>
+  <path d="M261 120 L261 364 Q261 420 317 420 Q373 420 373 364 L373 120" fill="none" stroke="#cdd6f4" stroke-opacity="0.7" stroke-width="9" stroke-linecap="round"/>
+
+  <rect x="137" y="110" width="116" height="15" rx="7" fill="#cdd6f4" fill-opacity="0.9"/>
+  <rect x="259" y="110" width="116" height="15" rx="7" fill="#cdd6f4" fill-opacity="0.9"/>
+
+  <rect x="160" y="148" width="8" height="255" rx="4" fill="#cdd6f4" fill-opacity="0.25"/>
+  <rect x="282" y="148" width="8" height="255" rx="4" fill="#cdd6f4" fill-opacity="0.25"/>
+</svg>
